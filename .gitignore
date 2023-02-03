@@ -336,3 +336,7 @@ poetry.toml
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains,macos,python,visualstudiocode
+signature.png
+out.pdf
+.gitignore
+out.png
